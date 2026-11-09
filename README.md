@@ -2,6 +2,8 @@ Hasbiyallahu Jafaru
 
 Systems Engineer · Product Builder · Production-Focused Developer
 
+Portfolio and live client work: [hasbiyallahu.xyz](https://hasbiyallahu.xyz). Website designer in Kaduna, Nigeria, building business websites, booking systems and Telegram bots.
+
 I build software that solves real operational problems, from the first architectural decision to deployment and ongoing maintenance.
 
 I look for gaps in existing workflows, identify opportunities to simplify them, and build systems that businesses can actually use. My work spans backend engineering, API development, web and mobile applications, automation, and AI-enabled products.
